@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "207804822720",
+    "project_id": "my-study-life-bd470",
+    "storage_bucket": "my-study-life-bd470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207804822720:android:c6c11512e08a6558e16925",
+        "android_client_info": {
+          "package_name": "com.example.my_study_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207804822720-vu95ivkvv5ou21932k28htm2oocbr5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2QsSEQ1q0_DzhGyKWRApIQYawHuKBcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207804822720-vu95ivkvv5ou21932k28htm2oocbr5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207804822720:android:f7287c826bbb0218e16925",
+        "android_client_info": {
+          "package_name": "com.initanzuher.mystudylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207804822720-vu95ivkvv5ou21932k28htm2oocbr5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2QsSEQ1q0_DzhGyKWRApIQYawHuKBcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207804822720-vu95ivkvv5ou21932k28htm2oocbr5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
